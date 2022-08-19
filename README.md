@@ -11,6 +11,8 @@ In this brief Refactoring exercise I have cut down on at least two dozen lines o
 
 ## Usage
 
+First, click the following link: https://jamesjporter.github.io/Efficient-Horiseon/
+
 As this is a simple deployed front end only web page, the only instructions you need to interact with it are to click the shared link to open the page and then utilzie your scroll wheel to move up and down the page. See an image of the page below:
 
 ![screenshot of deployed page](assets/images/deployed-screenshot.png)
